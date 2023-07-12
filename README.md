@@ -1,2 +1,2 @@
-# EJERCICIO-JS-ARRAYS
-Practicando más JS
+# EJERCICIOS-JS-ARRAYS
+Testeando arrays 
